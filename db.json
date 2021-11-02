@@ -27,8 +27,6 @@
                 {"empresa":"vectio", "dia": "04", "maletas entregadas": 3, "direcciones": 3, "recorrido": "arinaga x1- LP x2", "observaciones": [{"obs": "-"}]},
                 {"empresa":"vectio", "dia": "07", "maletas entregadas": 5, "direcciones": 5, "recorrido": "LP x5", "observaciones": [{"obs": "-"}]},
                 {"empresa":"vectio", "dia": "26", "maletas entregadas": 12, "direcciones": 8, "recorrido": "telde x1 - tafira x1 - arucas x3 - LP x3", "observaciones": [{"obs": "-"}]}
-            
-            
             ]
         },
         {"id": 10, "ruta":
@@ -37,7 +35,8 @@
                 {"empresa":"rhenus", "dia": "03", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
                 {"empresa":"vectio", "dia": "03", "maletas entregadas": 0, "direcciones": 0, "recorrido": "-", "observaciones": "-"}
-            ]},
+            ]
+        },
 
         {"id": 11, "ruta":[]}
     ],
