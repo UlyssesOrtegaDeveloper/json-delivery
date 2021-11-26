@@ -48,6 +48,8 @@
                 {"empresa":"rhenus", "dia": "22", "entregas": 16, "recogidas": 0, "kilos": 54, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "", "obs": ""}]},
                 {"empresa":"rhenus", "dia": "23", "entregas": 31, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "", "obs": ""}]},
                 {"empresa":"rhenus", "dia": "24", "entregas": 24, "recogidas": 0, "kilos": 120, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "344920/1", "obs": "se suma el 1 rechazo"}]},
+                {"empresa":"rhenus", "dia": "25", "entregas": 26, "recogidas": 0, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "", "obs": ""}]},
+                {"empresa":"rhenus", "dia": "26", "entregas": 30, "recogidas": 0, "kilos": 86, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "", "obs": ""}]},
                 
 
                 {"empresa":"vectio", "dia": "03", "maletas entregadas": 0, "direcciones": 0, "recorrido": "-", "observaciones": "-"}
