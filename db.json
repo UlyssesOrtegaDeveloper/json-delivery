@@ -36,7 +36,9 @@
                 {"empresa":"rhenus", "dia": "02", "entregas": 29, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1726628/6", "obs": "se entrega 1 faltante"}]},
                 {"empresa":"rhenus", "dia": "03", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}, 
            
-                {"empresa":"vectio", "dia": "07", "entregas": 17, "recogidas": 2, "kilos": 90, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+               
+                {"empresa":"vectio", "dia": "03", "maletas entregadas": 45, "direcciones": 16, "recorrido": "Sur", "observaciones": "de 15:00 a 23:00"},
+                {"empresa":"vectio", "dia": "15", "maletas entregadas": 6, "direcciones": 6, "recorrido": "aguimes x1 (se llamo y estaba en LP no se entrego), jinamar x1, santa brigida x1, vecindario x1, ingenio x2, sardina del sur x1, playa de arinaga x1 (ausente no se entrego)", "observaciones": ""}
             
              ]
         }
