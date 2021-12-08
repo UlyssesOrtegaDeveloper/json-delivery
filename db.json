@@ -34,8 +34,11 @@
              [
                 {"empresa":"rhenus", "dia": "01", "entregas": 29, "recogidas": 0, "kilos": 149, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "02", "entregas": 29, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1726628/6", "obs": "se entrega 1 faltante"}]},
-                {"empresa":"rhenus", "dia": "03", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]} 
-            ]
+                {"empresa":"rhenus", "dia": "03", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}, 
+           
+                {"empresa":"vectio", "dia": "07", "entregas": 17, "recogidas": 2, "kilos": 90, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+            
+             ]
         }
     ],
     "2022": 
