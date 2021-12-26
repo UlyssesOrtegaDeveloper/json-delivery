@@ -38,11 +38,18 @@
                 {"empresa":"rhenus", "dia": "07", "entregas": 17, "recogidas": 2, "kilos": 90, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "09", "entregas": 51, "recogidas": 0, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},                
                 {"empresa":"rhenus", "dia": "10", "entregas": 52, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                
+                {"empresa":"rhenus", "dia": "13", "entregas": 41, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "14", "entregas": 34, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "15", "entregas": 46, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "346807/1", "obs": "rechaza por no haberlo pedido"}]},
+                {"empresa":"rhenus", "dia": "16", "entregas": 38, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "17", "entregas": 43, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 2, "observaciones": [{"exp": "7-11-5-347080/1", "obs": "se entrega 1 faltante"},{"exp": "7-11-5-348090/1", "obs": "rechaza por no haberlo pedido y no tener hueco"}]},
             
-               
-                {"empresa":"vectio", "dia": "03", "maletas entregadas": 45, "direcciones": 16, "recorrido": "Sur", "observaciones": "de 15:00 a 23:00"},
-                {"empresa":"vectio", "dia": "15", "maletas entregadas": 6, "direcciones": 6, "recorrido": "aguimes x1 (se llamo y estaba en LP no se entrego), jinamar x1, santa brigida x1, vecindario x1, ingenio x2, sardina del sur x1, playa de arinaga x1 (ausente no se entrego)", "observaciones": ""}
-            
+                {"empresa":"rhenus", "dia": "20", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "348275/1", "obs": "rechazo por no haberlo pedido ni necesitarlo"}]},
+                {"empresa":"rhenus", "dia": "21", "entregas": 33, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "22", "entregas": 41, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "", "obs": ""}]},
+                {"empresa":"rhenus", "dia": "23", "entregas": 39, "recogidas": 0, "kilos": 58, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "24", "entregas": 26, "recogidas": 0, "kilos": 52, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1733584/18", "obs": "se entrega 1 faltante"}]}
              ]
         }
     ],
