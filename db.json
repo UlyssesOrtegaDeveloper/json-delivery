@@ -35,6 +35,7 @@
                 {"empresa":"rhenus", "dia": "01", "entregas": 29, "recogidas": 0, "kilos": 149, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "02", "entregas": 29, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1726628/6", "obs": "se entrega 1 faltante"}]},
                 {"empresa":"rhenus", "dia": "03", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},                
+                
                 {"empresa":"rhenus", "dia": "07", "entregas": 17, "recogidas": 2, "kilos": 90, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "09", "entregas": 51, "recogidas": 0, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},                
                 {"empresa":"rhenus", "dia": "10", "entregas": 52, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
@@ -49,7 +50,13 @@
                 {"empresa":"rhenus", "dia": "21", "entregas": 33, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "22", "entregas": 41, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "", "obs": ""}]},
                 {"empresa":"rhenus", "dia": "23", "entregas": 39, "recogidas": 0, "kilos": 58, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "24", "entregas": 26, "recogidas": 0, "kilos": 52, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1733584/18", "obs": "se entrega 1 faltante"}]}
+                {"empresa":"rhenus", "dia": "24", "entregas": 26, "recogidas": 0, "kilos": 52, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1733584/18", "obs": "se entrega 1 faltante"}]},
+                 
+                {"empresa":"rhenus", "dia": "27", "entregas": 31, "recogidas": 0, "kilos": 62, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "28", "entregas": 38, "recogidas": 1, "kilos": 107, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "0340231830", "obs": "entrega de Hilti, ausente hasta dia 10 de enero"}]},
+                {"empresa":"rhenus", "dia": "29", "entregas": 27, "recogidas": 1, "kilos": 184, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "", "obs": ""}]},
+                {"empresa":"rhenus", "dia": "30", "entregas": 43, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2027552/55", "obs": "entrega faltante"}]},
+                {"empresa":"rhenus", "dia": "31", "entregas": 26, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
              ]
         }
     ],
