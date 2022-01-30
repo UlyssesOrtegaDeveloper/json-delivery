@@ -35,8 +35,28 @@
     [
         {"id": 0, "ruta":
             [
-                {"empresa":"rhenus", "dia": "01", "entregas": 1, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "02", "entregas": 3, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "7-2-34525432", "obs": "dedo mundo cruel"}]}
+                {"empresa":"rhenus", "dia": "03", "entregas": 33, "recogidas": 0, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "04", "entregas": 34, "recogidas": 1, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "05", "entregas": 33, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "07", "entregas": 16, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+
+                {"empresa":"rhenus", "dia": "10", "entregas": 51, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-2-1735587/1", "obs": "se entrega 1 faltante"}]},
+                {"empresa":"rhenus", "dia": "11", "entregas": 51, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-4-623012/15", "obs": "se entrega 1 faltante"}]},
+                {"empresa":"rhenus", "dia": "12", "entregas": 44, "recogidas": 0, "kilos": 159, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "13", "entregas": 48, "recogidas": 0, "kilos": 246, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-4-622738/10", "obs": "se entrega 1 faltante"}]},
+                {"empresa":"rhenus", "dia": "14", "entregas": 40, "recogidas": 0, "kilos": 60, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2029807/2", "obs": "se entragan varios faltantes"}]},
+
+                {"empresa":"rhenus", "dia": "17", "entregas": 32, "recogidas": 0, "kilos": 121, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "18", "entregas": 51, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "350439/1", "obs": "tercera vez que salio a reparto, tras haber notificado que las direcciones anteriores estaban mal"}]},
+                {"empresa":"rhenus", "dia": "19", "entregas": 51, "recogidas": 0, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2024639/4", "obs": "se entrega 1 faltante"}]},
+                {"empresa":"rhenus", "dia": "20", "entregas": 35, "recogidas": 3, "kilos": 53, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "21", "entregas": 18, "recogidas": 0, "kilos": 50, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2029807/2", "obs": "se entrega 1 faltante"}]},
+
+                {"empresa":"rhenus", "dia": "24", "entregas": 8, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "628135/1", "obs": "rechazado, que lo envien al almacen de salinetas"},{"exp": "7/4/4-344157", "obs": "recogida no realizada por ser un pallet"}]},
+                {"empresa":"rhenus", "dia": "25", "entregas": 30, "recogidas": 3, "kilos": 170, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "346807/1", "obs": "rechaza por no haberlo pedido"}]},
+                {"empresa":"rhenus", "dia": "26", "entregas": 28, "recogidas": 3, "kilos": 180, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "27", "entregas": 28, "recogidas": 2, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 3, "observaciones": [{"exp": "7-11-2-1729964/1", "obs": "firma"},{"exp": "7-11-3-527430/5", "obs": "se entregan 2 bultos faltantes"},{"exp": "7-11-5-352829/1", "obs": "rechaza porque ya se lo habian mandado anteriormente"}]},
+                {"empresa":"rhenus", "dia": "28", "entregas": 35, "recogidas": 0, "kilos": 307, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
             ] 
         }
      ]
