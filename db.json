@@ -56,7 +56,9 @@
                 {"empresa":"rhenus", "dia": "25", "entregas": 30, "recogidas": 3, "kilos": 170, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "346807/1", "obs": "rechaza por no haberlo pedido"}]},
                 {"empresa":"rhenus", "dia": "26", "entregas": 28, "recogidas": 3, "kilos": 180, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "27", "entregas": 28, "recogidas": 2, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 3, "observaciones": [{"exp": "7-11-2-1729964/1", "obs": "firma"},{"exp": "7-11-3-527430/5", "obs": "se entregan 2 bultos faltantes"},{"exp": "7-11-5-352829/1", "obs": "rechaza porque ya se lo habian mandado anteriormente"}]},
-                {"empresa":"rhenus", "dia": "28", "entregas": 35, "recogidas": 0, "kilos": 307, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                {"empresa":"rhenus", "dia": "28", "entregas": 35, "recogidas": 0, "kilos": 307, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                
+                {"empresa":"rhenus", "dia": "31", "entregas": 26, "recogidas": 0, "kilos": 246, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "-", "obs": "-"}]}
             ] 
         }
      ]
