@@ -49,8 +49,8 @@
                 {"empresa":"rhenus", "dia": "21", "entregas": 37, "recogidas": 1, "kilos": 65, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2001210/1", "obs": "se entrega 1 faltante"}]},
                 {"empresa":"rhenus", "dia": "22", "entregas": 56, "recogidas": 6, "kilos": 64, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "23", "entregas": 57, "recogidas": 1, "kilos": 60, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "24", "entregas": 32, "recogidas": 0, "kilos": 124, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "Alb: 8391679281 (Wurth)", "obs": "se entrega 1 faltante"}]},
-                {"empresa":"rhenus", "dia": "25", "entregas": 28, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 3, "observaciones": [{"exp": "7-11-4-636514/1", "obs": "se entrega 1 faltante"},{"exp": "7-11-4-633950/4", "obs": "se entrega 1 faltante"},{"exp": "2053069/47", "obs": "rechaza porque no fue lo que pidio"}]},
+                {"empresa":"rhenus", "dia": "24", "entregas": 32, "recogidas": 0, "kilos": 124, "especiales": 0, "berioska": 0, "extras": 2, "observaciones": [{"exp": "Alb: 8391679281 (wurth)", "obs": "se entrega 1 faltante"},{"exp": "alb: 29807 (inside)", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "25", "entregas": 28, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 4, "observaciones": [{"exp": "7-11-4-636514/1", "obs": "se entrega 1 faltante"},{"exp": "7-11-4-633950/4", "obs": "se entrega 1 faltante"},{"exp": "2053069/47", "obs": "rechaza porque no fue lo que pidio"},{"exp": "alb: 839197322 (wurth)", "obs": "-"}]},
 
                 {"empresa":"rhenus", "dia": "28", "entregas": 18, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
             ]
