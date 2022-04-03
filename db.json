@@ -1,6 +1,7 @@
 {
     "2022": 
     [ 
+        {"id": 0, "ruta": ""},
          {"id": 1, "ruta":
             [
                 {"empresa":"rhenus", "dia": "03", "entregas": 26, "recogidas": 0, "kilos": 182, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
