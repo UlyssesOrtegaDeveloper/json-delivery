@@ -37,7 +37,7 @@
                 {"empresa":"rhenus", "dia": "02", "entregas": 22, "recogidas": 0, "kilos": 66, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "2074229/1", "obs": "rechaza porque no lo habian pedido o se habia comunicado entrega"}]},
                 {"empresa":"rhenus", "dia": "03", "entregas": 37, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "04", "entregas": 16, "recogidas": 1, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "540420/1", "obs": "rechazado"}]},
-                {"empresa":"rhenus", "dia": "055555555", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "05", "entregas": 22, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "06", "entregas": 24, "recogidas": 0, "kilos": 127, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-4-653954/1", "obs": "se entrega caja faltante"}]},
                 
                 {"empresa":"rhenus", "dia": "09", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 2, "observaciones": [{"exp": "654698/1", "obs": "rechaza por no pedir"},{"exp": "2078045/1", "obs": "rechaza por no habler llamado para pagar"}]},
