@@ -43,7 +43,7 @@
                 {"empresa":"rhenus", "dia": "09", "entregas": 30, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 2, "observaciones": [{"exp": "654698/1", "obs": "rechaza por no pedir"},{"exp": "2078045/1", "obs": "rechaza por no habler llamado para pagar"}]},
                 {"empresa":"rhenus", "dia": "10", "entregas": 35, "recogidas": 3, "kilos": 117, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "11", "entregas": 41, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2080445/31", "obs": "se entregan 2 cajas faltantes"}]},
-                {"empresa":"rhenus", "dia": "12", "entregas": 43, "recogidas": 1, "kilos": 56, "especiales": 0, "berioska": 0, "extras": 2, "observaciones": [{"exp": "344281941", "obs": "firma faltante hilti"},{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "12", "entregas": 43, "recogidas": 1, "kilos": 56, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "344281941", "obs": "firma faltante hilti"}]},
                 {"empresa":"rhenus", "dia": "13", "entregas": 28, "recogidas": 0, "kilos": 60, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
                 {"empresa":"rhenus", "dia": "16", "entregas": 38, "recogidas": 0, "kilos": 110, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
