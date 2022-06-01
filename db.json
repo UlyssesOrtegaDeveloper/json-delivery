@@ -58,7 +58,7 @@
                 {"empresa":"rhenus", "dia": "26", "entregas": 30, "recogidas": 0, "kilos": 60, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "27", "entregas": 27, "recogidas": 0, "kilos": 258, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "12-20706-1", "obs": "se entrega 1 faltante Decotextil"}]},
                 
-                {"empresa":"rhenus", "dia": "31", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                {"empresa":"rhenus", "dia": "31", "entregas": 29, "recogidas": 1, "kilos": 126, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
             ]
         }
         
