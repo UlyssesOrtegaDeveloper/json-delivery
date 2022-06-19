@@ -38,7 +38,7 @@
         
         {"id": 5, "ruta": 
             [
-                {"empresa":"rhenus", "dia": "01", "entregas": 43, "recogidas": 2, "kilos": 123, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "01", "entregas": 43, "recogidas": 2, "kilos": 123, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "02", "entregas": 46, "recogidas": 0, "kilos": 126, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
                 {"empresa":"rhenus", "dia": "06", "entregas": 25, "recogidas": 0, "kilos": 51, "especiales": 0, "berioska": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
