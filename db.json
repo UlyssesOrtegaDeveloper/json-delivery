@@ -52,10 +52,7 @@
                 {"empresa":"rhenus", "dia": "15", "entregas": 39, "recogidas": 0, "kilos": 587, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "16", "entregas": 36, "recogidas": 0, "kilos": 77, "especiales": 0, "berioska": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "17", "entregas": 43, "recogidas": 0, "kilos": 65, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
-                
-        
             ]
         }
-        
      ]
 }
