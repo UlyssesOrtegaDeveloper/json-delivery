@@ -38,20 +38,20 @@
         
         {"id": 5, "ruta": 
             [
-                {"empresa":"rhenus", "dia": "01", "entregas": 43, "recogidas": 2, "kilos": 123, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "02", "entregas": 46, "recogidas": 0, "kilos": 126, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "01", "entregas": 43, "recogidas": 2, "kilos": 123, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "02", "entregas": 46, "recogidas": 0, "kilos": 126, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
-                {"empresa":"rhenus", "dia": "06", "entregas": 25, "recogidas": 0, "kilos": 51, "especiales": 0, "supermercado": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "07", "entregas": 38, "recogidas": 0, "kilos": 110, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "08", "entregas": 39, "recogidas": 0, "kilos": 184, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "09", "entregas": 39, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercado": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "10", "entregas": 36, "recogidas": 0, "kilos": 159, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "06", "entregas": 25, "recogidas": 0, "kilos": 51, "especiales": 0, "berioska": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "07", "entregas": 38, "recogidas": 0, "kilos": 110, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "08", "entregas": 39, "recogidas": 0, "kilos": 184, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "09", "entregas": 39, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "10", "entregas": 36, "recogidas": 0, "kilos": 159, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
-                {"empresa":"rhenus", "dia": "13", "entregas": 18, "recogidas": 2, "kilos": 150, "especiales": 0, "supermercado": 0, "extras": 1, "observaciones": [{"exp": "372183/1", "obs": "Rechazo por cese de empresa"}]},
-                {"empresa":"rhenus", "dia": "14", "entregas": 44, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "15", "entregas": 39, "recogidas": 0, "kilos": 587, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "16", "entregas": 36, "recogidas": 0, "kilos": 77, "especiales": 0, "supermercado": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "17", "entregas": 43, "recogidas": 0, "kilos": 65, "especiales": 0, "supermercado": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "13", "entregas": 18, "recogidas": 2, "kilos": 150, "especiales": 0, "berioska": 0, "extras": 1, "observaciones": [{"exp": "372183/1", "obs": "Rechazo por cese de empresa"}]},
+                {"empresa":"rhenus", "dia": "14", "entregas": 44, "recogidas": 0, "kilos": 0, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "15", "entregas": 39, "recogidas": 0, "kilos": 587, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "16", "entregas": 36, "recogidas": 0, "kilos": 77, "especiales": 0, "berioska": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "17", "entregas": 43, "recogidas": 0, "kilos": 65, "especiales": 0, "berioska": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
         
             ]
