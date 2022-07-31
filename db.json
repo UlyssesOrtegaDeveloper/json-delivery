@@ -51,7 +51,7 @@
                 {"empresa":"rhenus", "dia": "19", "entregas": 38, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "20", "entregas": 24, "recogidas": 0, "kilos": 154, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "21", "entregas": 38, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "22", "entregas": 74, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                {"empresa":"rhenus", "dia": "22", "entregas": 74, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "25", "entregas": 16, "recogidas": 0, "kilos": 115, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "26", "entregas": 41, "recogidas": 3, "kilos": 326, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "27", "entregas": 24, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 3, "extras": 1, "observaciones": [{"exp": "378716/1", "obs": "rechazo por no haberlo pedido ni necesitarlo"}]},
