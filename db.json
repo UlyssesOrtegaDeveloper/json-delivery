@@ -40,11 +40,26 @@
             [
                 {"empresa":"rhenus", "dia": "1", "entregas": 38, "recogidas": 0, "kilos": 135, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "382944/1", "obs": "Rechazo por tener exceso de mercancia"}]},
                 {"empresa":"rhenus", "dia": "2", "entregas": 34, "recogidas": 0, "kilos": 167, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "7-11-2-1803221/1", "obs": "se entrega 1 faltante de Macy"}]},
+                
                 {"empresa":"rhenus", "dia": "5", "entregas": 20, "recogidas": 1, "kilos": 233, "especiales": 0, "supermercados": 5, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "6", "entregas": 33, "recogidas": 0, "kilos": 200, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "379327/1", "obs": "Rechazo por ser un duplicado, ya esa mercancia la habia recibido"}]}
+                {"empresa":"rhenus", "dia": "6", "entregas": 33, "recogidas": 0, "kilos": 200, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "379327/1", "obs": "Rechazo por ser un duplicado, ya esa mercancia la habia recibido"}]},
+                {"empresa":"rhenus", "dia": "7", "entregas": 32, "recogidas": 0, "kilos": 320, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-5-383329/1", "obs": "entrega de 1 bulto faltante"}]},
                 
+                {"empresa":"rhenus", "dia": "15", "entregas": 42, "recogidas": 0, "kilos": 150, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "16", "entregas": 24, "recogidas": 0, "kilos": 165, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
-             ]
+                {"empresa":"rhenus", "dia": "19", "entregas": 22, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "7-11-1-2115491/25", "obs": "entraga de 1 bulto faltante"},{"exp": "681411/5", "obs": "Rechazo por solo llevar 1 en vez de los 2"}]},
+                {"empresa":"rhenus", "dia": "20", "entregas": 25, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "1808294/1", "obs": "rechaza por no haber pedido cita"},{"exp": "7-11-4-677759/10", "obs": "entraga de 1 bulto faltante"}]},
+                {"empresa":"rhenus", "dia": "21", "entregas": 29, "recogidas": 2, "kilos": 62, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "7-11-2-1808296/1", "obs": "entraga de 1 bulto faltante"}]},
+                {"empresa":"rhenus", "dia": "22", "entregas": 20, "recogidas": 0, "kilos": 60, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "23", "entregas": 28, "recogidas": 0, "kilos": 222, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "7-11-2-1799632/2", "obs": "se entrega 1 bulto faltante"},{"exp": "7-11-4-683607/1", "obs": "se entragan 3 faltantes"}]},
+
+                {"empresa":"rhenus", "dia": "27", "entregas": 26, "recogidas": 1, "kilos": 374, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "28", "entregas": 36, "recogidas": 0, "kilos": 196, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "690972/1", "obs": "Rechazado por tener el almacen inundado"},{"exp": "387009/1", "obs": "rechazo de eurinver por duplicado"}]},
+                {"empresa":"rhenus", "dia": "29", "entregas": 21, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "557023/1", "obs": "rechazado por no pertenecer a ellos esa mercacia, era para mogan"},{"exp": "7-11-4-691036/1", "obs": "se entrega 1 faltante"}]},
+                {"empresa":"rhenus", "dia": "30", "entregas": 30, "recogidas": 0, "kilos": 168, "especiales": 0, "supermercados": 4, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+
+            ]
         }      
      ]
 }
