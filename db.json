@@ -57,10 +57,10 @@
                 {"empresa":"rhenus", "dia": "21", "entregas": 25, "recogidas": 1, "kilos": 59, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "2131508/4", "obs": "Rechazado y regregar a una tienda para investigar"}]},
                 
                 
-                {"empresa":"rhenus", "dia": "25", "entregas": 39, "recogidas": 0, "kilos": 242, "especiales": 0, "supermercados": 0, "extras": 3, "observaciones": [{"exp": "7-11-4-696406/1", "obs": "-"},{"exp": "7-11-1-2126873/1", "obs": "-"},{"exp": "1817817/1", "obs": "rechaza"}]},
-                {"empresa":"rhenus", "dia": "26", "entregas": 30, "recogidas": 1, "kilos": 177, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "697812/1", "obs": "rechaza"},{"exp": "7-11-1-21-31487/6", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "25", "entregas": 39, "recogidas": 0, "kilos": 242, "especiales": 0, "supermercados": 3, "extras": 3, "observaciones": [{"exp": "7-11-4-696406/1", "obs": "-"},{"exp": "7-11-1-2126873/1", "obs": "-"},{"exp": "1817817/1", "obs": "rechaza"}]},
+                {"empresa":"rhenus", "dia": "26", "entregas": 30, "recogidas": 1, "kilos": 177, "especiales": 0, "supermercados": 1, "extras": 2, "observaciones": [{"exp": "697812/1", "obs": "rechaza"},{"exp": "7-11-1-21-31487/6", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "27", "entregas": 23, "recogidas": 0, "kilos": 119, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "2125377/44", "obs": "rechaza"}]},
-                {"empresa":"rhenus", "dia": "28", "entregas": 23, "recogidas": 1, "kilos": 247, "especiales": 0, "supermercados": 0, "extras": 3, "observaciones": [{"exp": "Alb: P/222618", "obs": "se entrega 7 faltantes"},{"exp": "Alb: P/222619", "obs": "se entrega 7 faltantes"},{"exp": "Alb: P/222683", "obs": "se entrega 7 faltantes"}]},
+                {"empresa":"rhenus", "dia": "28", "entregas": 23, "recogidas": 1, "kilos": 247, "especiales": 0, "supermercados": 2, "extras": 3, "observaciones": [{"exp": "Alb: P/222618", "obs": "se entrega 7 faltantes"},{"exp": "Alb: P/222619", "obs": "se entrega 7 faltantes"},{"exp": "Alb: P/222683", "obs": "se entrega 7 faltantes"}]},
                 {"empresa":"rhenus", "dia": "31", "entregas": 18, "recogidas": 0, "kilos": 333, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "697680/1", "obs": "-"},{"exp": "1815629/8", "obs": "-"}]}
             ]
         }
