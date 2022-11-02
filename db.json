@@ -52,7 +52,7 @@
                 
                 {"empresa":"rhenus", "dia": "17", "entregas": 18, "recogidas": 1, "kilos": 137, "especiales": 0, "supermercados": 0, "extras": 3, "observaciones": [{"exp": "-695433/1", "obs": "Rechazo por estar duplicado el pedido"},{"exp": "2125801/46", "obs": "Rechazo hasta nueva orden"},{"exp": "1813738/1", "obs": "Rechazo por no tener factura"}]},
                 {"empresa":"rhenus", "dia": "18", "entregas": 32, "recogidas": 0, "kilos": 227, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "695841/1", "obs": "Rechazado, pedido cancelado"}]},
-                {"empresa":"rhenus", "dia": "19", "entregas": 35, "recogidas": 0, "kilos": 130, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-1-2127316/5", "obs": "se entrega 1 bulto faltante"}]},
+                {"empresa":"rhenus", "dia": "19", "entregas": 35, "recogidas": 0, "kilos": 130, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "7-11-1-2127316/5", "obs": "se entrega 1 bulto faltante"}]},
                 {"empresa":"rhenus", "dia": "20", "entregas": 33, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 5, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "21", "entregas": 25, "recogidas": 1, "kilos": 59, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "2131508/4", "obs": "Rechazado y regregar a una tienda para investigar"}]},
                 
