@@ -68,7 +68,11 @@
                 {"empresa":"hillfood", "dia": "25", "supermercados": 5, "economatos": 2, "herbolarios": 5, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
                 
-                {"empresa":"rhenus", "dia": "25", "entregas": 37, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                {"empresa":"rhenus", "dia": "25", "entregas": 37, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "28", "entregas": 22, "recogidas": 7, "kilos": 102, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2138212/1", "obs": "se rechaza un faltante"}]},
+                {"empresa":"rhenus", "dia": "29", "entregas": 17, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "1824535/7", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "30", "entregas": 37, "recogidas": 1, "kilos": 103, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2138212/1", "obs": "se entrega un faltante"}]}
+                
                 
             ]
         }
