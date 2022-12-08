@@ -62,19 +62,22 @@
                 {"empresa":"rhenus", "dia": "22", "entregas": 23, "recogidas": 0, "kilos": 172, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "23", "entregas": 37, "recogidas": 1, "kilos": 64, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "24", "entregas": 35, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                
+                 {"empresa":"vectio", "dia": "24", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}], "super": 8, "economatos": 1, "herbolarios": 3},
+                {"empresa":"hillfood", "dia": "24", "supermercados": 8, "economatos": 1, "herbolarios": 4, "observaciones": [{"exp": "-", "obs": "-"}]},
+                
+                {"empresa":"vectio", "dia": "25", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}], "super": 5, "economatos": 2, "herbolarios": 5},
+                {"empresa":"hillfood", "dia": "25", "supermercados": 5, "economatos": 2, "herbolarios": 5, "observaciones": [{"exp": "-", "obs": "-"}]},
+                
+                
+                
                 {"empresa":"rhenus", "dia": "25", "entregas": 37, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
                 {"empresa":"rhenus", "dia": "28", "entregas": 22, "recogidas": 7, "kilos": 102, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2138212/1", "obs": "se rechaza un faltante"}]},
                 {"empresa":"rhenus", "dia": "29", "entregas": 17, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "1824535/7", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "30", "entregas": 37, "recogidas": 1, "kilos": 103, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2138212/1", "obs": "se entrega un faltante"}]},
+                {"empresa":"rhenus", "dia": "30", "entregas": 37, "recogidas": 1, "kilos": 103, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2138212/1", "obs": "se entrega un faltante"}]}
                 
-                {"empresa":"vectio", "dia": "24", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}], "super": 8, "economatos": 1, "herbolarios": 3},
-                {"empresa":"hillfood", "dia": "24", "supermercados": 8, "economatos": 1, "herbolarios": 4, "observaciones": [{"exp": "-", "obs": "-"}]},
-                
-                {"empresa":"vectio", "dia": "25", "entregas": 0, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}], "super": 5, "economatos": 2, "herbolarios": 5},
-                {"empresa":"hillfood", "dia": "25", "supermercados": 5, "economatos": 2, "herbolarios": 5, "observaciones": [{"exp": "-", "obs": "-"}]}
-                
-                
+               
                 
                 
             ]
