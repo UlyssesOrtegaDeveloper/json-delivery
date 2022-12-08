@@ -24,7 +24,7 @@
                 {"empresa":"rhenus", "dia": "10", "entregas": 31, "recogidas": 0, "kilos": 309, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "11", "entregas": 27, "recogidas": 1, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "7-11-4-699536/6", "obs": "firma / sello"},{"exp": "-7-11-1-2137595/5", "obs": "se entrega 1 bulto faltante"}]},
                 
-                {"empresa":"rhenus", "dia": "14", "entregas": 19, "recogidas": 0, "kilos": 312, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "14", "entregas": 19, "recogidas": 0, "kilos": 312, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "15", "entregas": 36, "recogidas": 0, "kilos": 120, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "16", "entregas": 20, "recogidas": 0, "kilos": 120, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "17", "entregas": 34, "recogidas": 0, "kilos": 264, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
