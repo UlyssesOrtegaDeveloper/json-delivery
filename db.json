@@ -46,6 +46,20 @@
                 {"empresa":"rhenus", "dia": "29", "entregas": 17, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "1824535/7", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "30", "entregas": 37, "recogidas": 1, "kilos": 103, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-1-2138212/1", "obs": "se entrega un faltante"}]}
             ]
+        },
+        
+        {"id": 11, "ruta": 
+            [
+                {"empresa":"rhenus", "dia": "01", "entregas": 33, "recogidas": 1, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "02", "entregas": 27, "recogidas": 0, "kilos": 116, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "7-11-4-703966/1", "obs": "Firma en Hotel Puerto Rico"}]},
+                
+                {"empresa":"rhenus", "dia": "05", "entregas": 25, "recogidas": 0, "kilos": 233, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "07", "entregas": 50, "recogidas": 1, "kilos": 325, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "09", "entregas": 35, "recogidas": 2, "kilos": 119, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-1-2144476/5", "obs": "se entrega 1 bulto faltante"}]},
+
+                {"empresa":"rhenus", "dia": "12", "entregas": 23, "recogidas": 0, "kilos": 246, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "13", "entregas": 37, "recogidas": 1, "kilos": 202, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+            ]
         }
      ]
 }
