@@ -58,8 +58,11 @@
                 {"empresa":"rhenus", "dia": "09", "entregas": 35, "recogidas": 2, "kilos": 119, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-1-2144476/5", "obs": "se entrega 1 bulto faltante"}]},
 
                 {"empresa":"hillfood", "dia": "12", "supermercados": 15, "hoteles": 2, "herbolarios": 5, "particulares": 1, "otros": 1, "observaciones": [{"exp": "-", "obs": "-"}]},
-                
+
                 {"empresa":"rhenus", "dia": "12", "entregas": 23, "recogidas": 0, "kilos": 246, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+
+                {"empresa":"hillfood", "dia": "13", "supermercados": 11, "hoteles": 7, "herbolarios": 2, "particulares": 0, "otros": 3, "observaciones": [{"exp": "-", "obs": "-"}]},
+
                 {"empresa":"rhenus", "dia": "13", "entregas": 37, "recogidas": 1, "kilos": 202, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
             ]
         }
