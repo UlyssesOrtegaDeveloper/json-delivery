@@ -37,7 +37,7 @@
                 {"empresa":"rhenus", "dia": "27", "entregas": 21, "recogidas": 0, "kilos": 760, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "28", "entregas": 26, "recogidas": 0, "kilos": 315, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "29", "entregas": 18, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "30", "entregas": 44, "recogidas": 0, "kilos": 108, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                {"empresa":"rhenus", "dia": "30", "entregas": 32, "recogidas": 0, "kilos": 188, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
 
             ]
         }
