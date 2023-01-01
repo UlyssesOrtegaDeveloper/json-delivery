@@ -32,7 +32,7 @@
                 {"empresa":"rhenus", "dia": "20", "entregas": 32, "recogidas": 1, "kilos": 160, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "7-11-4-709454/1", "obs": "rechaza queria garrafas rosadas no verdes"}]},
                 {"empresa":"rhenus", "dia": "21", "entregas": 40, "recogidas": 0, "kilos": 338, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "710407/1", "obs": "la recepcionista no quizo recogerlo"}]},
                 {"empresa":"rhenus", "dia": "22", "entregas": 43, "recogidas": 1, "kilos": 123, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "23", "entregas": 31, "recogidas": 0, "kilos": 292, "especiales": 6, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "23", "entregas": 37, "recogidas": 0, "kilos": 292, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 
                 {"empresa":"rhenus", "dia": "27", "entregas": 21, "recogidas": 0, "kilos": 760, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "28", "entregas": 26, "recogidas": 0, "kilos": 315, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
