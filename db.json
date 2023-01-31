@@ -40,7 +40,9 @@
                 {"empresa":"rhenus", "dia": "30", "entregas": 32, "recogidas": 0, "kilos": 188, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
 
             ]
-        },  
+        }
+    ],
+    
     "2023": 
     [
         {"id": 0, "ruta": 
