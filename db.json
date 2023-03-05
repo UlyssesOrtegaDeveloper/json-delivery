@@ -72,7 +72,8 @@
                 
                 {"empresa":"rhenus", "dia": "27", "entregas": 35, "recogidas": 1, "kilos": 249, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "28", "entregas": 29, "recogidas": 1, "kilos": 186, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "724338/3", "obs": "se entrega 1 faltante"}]}
-             ]
-         }   
+                
+            ]
+        }  
     ]
 }
