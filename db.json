@@ -45,7 +45,7 @@
                 {"empresa":"rhenus", "dia": "30", "entregas": 21, "recogidas": 0, "kilos": 258, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "31", "entregas": 31, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
             
-            ],
+            ]
         },
         
         {"id": 1, "ruta": 
