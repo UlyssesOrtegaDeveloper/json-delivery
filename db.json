@@ -47,6 +47,7 @@
             
             ]
         },
+        {"id": 1, "ruta": 
                 {"empresa":"rhenus", "dia": "01", "entregas": 21, "recogidas": 0, "kilos": 199, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "2160747/5", "obs": "Entrega de 1 caja faltante en mango"}]},
                 {"empresa":"rhenus", "dia": "02", "entregas": 25, "recogidas": 0, "kilos": 213, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "03", "entregas": 26, "recogidas": 0, "kilos": 292, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
@@ -70,6 +71,6 @@
                 
                 {"empresa":"rhenus", "dia": "27", "entregas": 35, "recogidas": 1, "kilos": 249, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "28", "entregas": 29, "recogidas": 1, "kilos": 186, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "724338/3", "obs": "se entrega 1 faltante"}]}
-                
+         }   
     ]
 }
