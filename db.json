@@ -6,7 +6,7 @@
         
         {"id": 2, "ruta": 
             [
-                {"empresa":"hillfood", "dia": "24", "supermercados": 10, "hoteles": 2, "herbolarios": 0, "particulares": 0, "otros": 0},
+                {"empresa":"hillfood", "dia": "24", "supermercados": 10, "hoteles": 2, "herbolarios": 0, "particulares": 0, "otros": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "01", "entregas": 20, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "02", "entregas": 35, "recogidas": 1, "kilos": 176, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "03", "entregas": 40, "recogidas": 0, "kilos": 162, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
