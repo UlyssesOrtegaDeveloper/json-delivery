@@ -33,38 +33,7 @@
         },
         {"id": 1, "ruta": ""},
         
-        {"id": 2, "ruta": 
-            [
-                {"empresa":"hillfood", "dia": "24", "supermercados": 10, "hoteles": 2, "herbolarios": 0, "particulares": 0, "otros": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "01", "entregas": 20, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "02", "entregas": 35, "recogidas": 1, "kilos": 176, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "03", "entregas": 40, "recogidas": 0, "kilos": 162, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                
-                {"empresa":"rhenus", "dia": "06", "entregas": 28, "recogidas": 1, "kilos": 329, "especiales": 0, "supermercados": 1, "extras": 2, "observaciones": [{"exp": "7-11-1-2169653/1", "obs": "no picado - KIM"},{"exp": "7-11-5-411983/1", "obs": "no picado - Micaela"}]},
-                {"empresa":"rhenus", "dia": "07", "entregas": 37, "recogidas": 0, "kilos": 124, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "08", "entregas": 34, "recogidas": 1, "kilos": 73, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "09", "entregas": 18, "recogidas": 0, "kilos": 60, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "10", "entregas": 36, "recogidas": 4, "kilos": 56, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "412844/1", "obs": "rechazo en aqualand era para palmitos park"}]},
-                
-                {"empresa":"rhenus", "dia": "13", "entregas": 23, "recogidas": 0, "kilos": 88, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "14", "entregas": 38, "recogidas": 0, "kilos": 54, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "15", "entregas": 35, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 4, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "16", "entregas": 38, "recogidas": 1, "kilos": 172, "especiales": 0, "supermercados": 0, "extras": 3, "observaciones": [{"exp": "7-11-4-730704", "obs": "alex me dio wurth"},{"exp": "7-11-4-730706", "obs": "alex me dio wurth"},{"exp": "7-11-4-730714", "obs": "alex me dio wurth"}]},
-                {"empresa":"rhenus", "dia": "17", "entregas": 22, "recogidas": 1, "kilos": 200, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                
-                {"empresa":"rhenus", "dia": "20", "entregas": 20, "recogidas": 0, "kilos": 144, "especiales": 0, "supermercados": 2, "extras": 2, "observaciones": [{"exp": "730314/1", "obs": "Mango rechaza porque su pegatina no pone su tienda"},{"exp": "729414/1", "obs": "Dihova rechaza porque no se entrega ahi sino en arinaga"}]},
-                {"empresa":"rhenus", "dia": "21", "entregas": 30, "recogidas": 0, "kilos": 61, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "1859509/1", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "22", "entregas": 26, "recogidas": 0, "kilos": 115, "especiales": 0, "supermercados": 0, "extras": 3, "observaciones": [{"exp": "1859832/1", "obs": "sabina rechaza por no pedir hora"},{"exp": "577207/1", "obs": "rechazo de casino por no saber ni pagar"},{"exp": "7-11-5-414883/1", "obs": "Urbieta entregado sin picar"}]},
-                {"empresa":"rhenus", "dia": "23", "entregas": 28, "recogidas": 0, "kilos": 145, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "415207", "obs": "doble por volumen"}]},
-                {"empresa":"rhenus", "dia": "24", "entregas": 18, "recogidas": 0, "kilos": 106, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                
-                {"empresa":"rhenus", "dia": "27", "entregas": 20, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "28", "entregas": 36, "recogidas": 0, "kilos": 210, "especiales": 0, "supermercados": 1, "extras": 3, "observaciones": [{"exp": "1859918/1", "obs": "rechazo por no tener factura"},{"exp": "1858970/1", "obs": "rechazo por no tener factura"},{"exp": "2176955/1", "obs": "rechazo por no tener factura"}]},
-                {"empresa":"rhenus", "dia": "29", "entregas": 37, "recogidas": 1, "kilos": 118, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-3-578322/2", "obs": "La tienda me manda a otra tienda y la otra tienda me manda a la primera"}]},
-                {"empresa":"rhenus", "dia": "30", "entregas": 35, "recogidas": 3, "kilos": 130, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "31", "entregas": 32, "recogidas": 3, "kilos": 346, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "1860711/1", "obs": "JF me hizo volver diciendo q yo habia cometido un error, y fue el camion haciendome perder tiempo"}]}
-                
-            ]
-        }
+        
+        
     ]
 }
