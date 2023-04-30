@@ -12,7 +12,7 @@
                 {"empresa":"rhenus", "dia": "05", "entregas": 23, "recogidas": 1, "kilos": 237, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "735931/1", "obs": "Rechazado, albaran no concuerda en cifras (hospital)"}]},
                 
                 {"empresa":"rhenus", "dia": "10", "entregas": 29, "recogidas": 2, "kilos": 50, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "11", "entregas": 25, "recogidas": 2, "kilos": 124, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "11", "entregas": 25, "recogidas": 2, "kilos": 124, "especiales": 1, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "12", "entregas": 24, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "13", "entregas": 29, "recogidas": 1, "kilos": 152, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "418125/1", "obs": "Rechazado por no haberlo pedido "}]},
                 {"empresa":"rhenus", "dia": "14", "entregas": 31, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
