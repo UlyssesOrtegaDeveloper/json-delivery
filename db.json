@@ -30,7 +30,7 @@
                 {"empresa":"rhenus", "dia": "25", "entregas": 34, "recogidas": 3, "kilos": 264, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "26", "entregas": 28, "recogidas": 3, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "7-11-4-746454/6", "obs": "Se entregan 2 cajas faltantes en Perf. Europa"},{"exp": "7-11-5-424549/1", "obs": "Rechazado por no haberlo pedido"}]},
                 
-                {"empresa":"rhenus", "dia": "31", "entregas": 40, "recogidas": 0, "kilos": 176, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "31", "entregas": 40, "recogidas": 0, "kilos": 176, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
 
             ]
         }
