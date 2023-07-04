@@ -33,6 +33,32 @@
                 {"empresa":"rhenus", "dia": "31", "entregas": 40, "recogidas": 0, "kilos": 176, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
 
             ]
+        },
+        {"id": 5, "ruta": 
+            [
+                {"empresa":"rhenus", "dia": "01", "entregas": 51, "recogidas": 1, "kilos": 54, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "425165/1", "obs": "Rechazado por no haberlo pedido"}]},
+                {"empresa":"rhenus", "dia": "02", "entregas": 37, "recogidas": 2, "kilos": 273, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "05", "entregas": 21, "recogidas": 1, "kilos": 143, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "06", "entregas": 38, "recogidas": 1, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "07", "entregas": 25, "recogidas": 3, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "08", "entregas": 32, "recogidas": 2, "kilos": 353, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "09", "entregas": 20, "recogidas": 0, "kilos": 163, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "12", "entregas": 17, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "750579/1", "obs": "Rechazado por duplicado Spar Arguineguin"}]},
+                {"empresa":"rhenus", "dia": "13", "entregas": 38, "recogidas": 0, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "1886468/1", "obs": "BW 2015 no se entrega ahi y me mandan a entregar en C.C Puerto Rico"}]},
+                {"empresa":"rhenus", "dia": "14", "entregas": 22, "recogidas": 0, "kilos": 511, "especiales": 0, "supermercados": 4, "extras": 1, "observaciones": [{"exp": "427149/1", "obs": "No se lo llevo el camion, Cony mucho volumen muchas cajas mucho peso un palet"}]},
+                {"empresa":"rhenus", "dia": "15", "entregas": 38, "recogidas": 7, "kilos": 368, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "16", "entregas": 28, "recogidas": 2, "kilos": 168, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "19", "entregas": 18, "recogidas": 0, "kilos": 261, "especiales": 0, "supermercados": 1, "extras": 2, "observaciones": [{"exp": "7-11-5-425794/1", "obs": "silkroad firmar"},{"exp": "7-11-4-751404/2", "obs": "G&B entrega un faltante"}]},
+                {"empresa":"rhenus", "dia": "21", "entregas": 39, "recogidas": 3, "kilos": 54, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "426004/1", "obs": "jujipe, lejos 20min ir y otros 20min venir barranco"}]},
+                {"empresa":"rhenus", "dia": "22", "entregas": 29, "recogidas": 4, "kilos": 145, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "428416/1", "obs": "Rechazo no lo habian pedido"}]},
+                {"empresa":"rhenus", "dia": "23", "entregas": 17, "recogidas": 3, "kilos": 111, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "26", "entregas": 33, "recogidas": 0, "kilos": 101, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "1891076/1", "obs": "BM 2015 me mandan a otra direccion a entregar"}]},
+                {"empresa":"rhenus", "dia": "27", "entregas": 37, "recogidas": 0, "kilos": 269, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "7-11-4-751757/15", "obs": "entrega de faltante"},{"exp": "7-11-1-2204355/4", "obs": "entrega de faltante"}]},
+                {"empresa":"rhenus", "dia": "28", "entregas": 23, "recogidas": 2, "kilos": 50, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "29", "entregas": 34, "recogidas": 2, "kilos": 105, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "30", "entregas": 32, "recogidas": 7, "kilos": 352, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                
+            ]
         }
         
     ]
