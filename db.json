@@ -5,35 +5,8 @@
         {"id": 1, "ruta": ""},
         {"id": 2, "ruta": ""},
         {"id": 3, "ruta": ""},
+        {"id": 4, "ruta": ""},
         
-        {"id": 4, "ruta": 
-            [
-                {"empresa":"rhenus", "dia": "02", "entregas": 31, "recogidas": 5, "kilos": 264, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "03", "entregas": 35, "recogidas": 0, "kilos": 123, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "1873286/1", "obs": "Rechazado por falta de factura en P.Europa"}]},
-                {"empresa":"rhenus", "dia": "04", "entregas": 21, "recogidas": 0, "kilos": 303, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "05", "entregas": 34, "recogidas": 0, "kilos": 401, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-3-582666/1", "obs": "Rechazado por no haberlo pedido "}]},
-                
-                {"empresa":"rhenus", "dia": "09", "entregas": 34, "recogidas": 0, "kilos": 50, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "7-11-1-2188535/6", "obs": "se entragan 4 faltantes en mango 50kg"}]},
-                {"empresa":"rhenus", "dia": "10", "entregas": 29, "recogidas": 2, "kilos": 0, "especiales": 0, "supermercados": 5, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "11", "entregas": 28, "recogidas": 2, "kilos": 147, "especiales": 0, "supermercados": 1, "extras": 2, "observaciones": [{"exp": "7-11-5-413788/1", "obs": "Firma albaran en TopShop Yumbo"},{"exp": "7-11-1-2191441/1", "obs": "Rechazado porque cierre de sede en Electro Stock"}]},
-                {"empresa":"rhenus", "dia": "12", "entregas": 24, "recogidas": 2, "kilos": 715, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                
-                {"empresa":"rhenus", "dia": "15", "entregas": 27, "recogidas": 1, "kilos": 197, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "16", "entregas": 54, "recogidas": 9, "kilos": 177, "especiales": 0, "supermercados": 0, "extras": 1, "observaciones": [{"exp": "7-11-4-743116/15", "obs": "se entrega 1 faltante en G&B"}]},
-                {"empresa":"rhenus", "dia": "17", "entregas": 35, "recogidas": 0, "kilos": 292, "especiales": 0, "supermercados": 5, "extras": 1, "observaciones": [{"exp": "1877300/1", "obs": "Rechazado por no haber pedido hora"}]},
-                {"empresa":"rhenus", "dia": "18", "entregas": 30, "recogidas": 6, "kilos": 403, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "19", "entregas": 31, "recogidas": 1, "kilos": 387, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "745585/2", "obs": "Rechazado porque querian toner en negro no en cyan"}]},
-
-                {"empresa":"rhenus", "dia": "22", "entregas": 30, "recogidas": 0, "kilos": 311, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "23", "entregas": 41, "recogidas": 1, "kilos": 88, "especiales": 0, "supermercados": 2, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "24", "entregas": 30, "recogidas": 0, "kilos": 183, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "25", "entregas": 34, "recogidas": 3, "kilos": 264, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
-                {"empresa":"rhenus", "dia": "26", "entregas": 28, "recogidas": 3, "kilos": 0, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "7-11-4-746454/6", "obs": "Se entregan 2 cajas faltantes en Perf. Europa"},{"exp": "7-11-5-424549/1", "obs": "Rechazado por no haberlo pedido"}]},
-                
-                {"empresa":"rhenus", "dia": "31", "entregas": 40, "recogidas": 0, "kilos": 176, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
-
-            ]
-        },
         {"id": 5, "ruta": 
             [
                 {"empresa":"rhenus", "dia": "01", "entregas": 51, "recogidas": 1, "kilos": 54, "especiales": 0, "supermercados": 1, "extras": 1, "observaciones": [{"exp": "425165/1", "obs": "Rechazado por no haberlo pedido"}]},
@@ -57,6 +30,22 @@
                 {"empresa":"rhenus", "dia": "28", "entregas": 23, "recogidas": 2, "kilos": 50, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "29", "entregas": 34, "recogidas": 2, "kilos": 105, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
                 {"empresa":"rhenus", "dia": "30", "entregas": 32, "recogidas": 7, "kilos": 352, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
+                
+            ]
+        },
+        {"id": 6, "ruta": 
+            [
+                {"empresa":"rhenus", "dia": "03", "entregas": 20, "recogidas": 2, "kilos": 50, "especiales": 0, "supermercados": 2, "extras": 1, "observaciones": [{"exp": "429600/1", "obs": "Rechazado porque los Princesos entregaron mal"}]},
+                {"empresa":"rhenus", "dia": "04", "entregas": 42, "recogidas": 2, "kilos": 206, "especiales": 0, "supermercados": 0, "extras": 2, "observaciones": [{"exp": "429986/1", "obs": "Rechazado por no haberlo pedido "},{"exp": "2207387/1", "obs": "Rechazado por no haberlo pedido "}]},
+                {"empresa":"rhenus", "dia": "05", "entregas": 32, "recogidas": 0, "kilos": 351, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "06", "entregas": 31, "recogidas": 3, "kilos": 161, "especiales": 0, "supermercados": 5, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "07", "entregas": 25, "recogidas": 0, "kilos": 142, "especiales": 0, "supermercados": 4, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                
+                {"empresa":"rhenus", "dia": "10", "entregas": 43, "recogidas": 3, "kilos": 357, "especiales": 0, "supermercados": 3, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "11", "entregas": 39, "recogidas": 1, "kilos": 203, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "12", "entregas": 21, "recogidas": 0, "kilos": 159, "especiales": 0, "supermercados": 5, "extras": 1, "observaciones": [{"exp": "431007/1", "obs": "Rechazado porque dicen que se tienen que llevar una caja primero"}]},
+                {"empresa":"rhenus", "dia": "13", "entregas": 30, "recogidas": 1, "kilos": 390, "especiales": 0, "supermercados": 1, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]},
+                {"empresa":"rhenus", "dia": "14", "entregas": 36, "recogidas": 0, "kilos": 115, "especiales": 0, "supermercados": 0, "extras": 0, "observaciones": [{"exp": "-", "obs": "-"}]}
                 
             ]
         }
